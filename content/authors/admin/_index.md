@@ -1,13 +1,15 @@
 ---
-# Display name
 title: Gabriel Warde
-
-# Name pronunciation (optional)
-name_pronunciation: ''
-
-# Full name (for SEO)
 first_name: Gabriel
 last_name: Warde
+role: Data Scientist
+email: wardegabriel@gmail.com
+social_links:
+  - platform: Twitter
+    url: https://twitter.com/GetResearchDev
+  - platform: LinkedIn
+    url: https://www.linkedin.com/in/gabrielwarde/
+---
 
 # Status emoji
 status:
@@ -27,19 +29,6 @@ organizations:
   - name: University of Lille
     url: https://www.univ-lille.fr/
 
-# Social network links
-profiles:
-  - icon: at-symbol
-    url: 'mailto:wardegabriel@gmail.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/GabrielWarde
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/gabrielwarde/
 
 interests:
   - Machine Learning
