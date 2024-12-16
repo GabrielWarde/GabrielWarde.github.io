@@ -1,12 +1,14 @@
 ---
-# Your front matter content
+# Display name
 title: Gabriel Warde
+
+# Name pronunciation (optional)
+name_pronunciation: ''
+
+# Full name (for SEO)
 first_name: Gabriel
 last_name: Warde
-# more fields here...
 ---
-
-
 # Status emoji
 status:
   icon: 🤖
