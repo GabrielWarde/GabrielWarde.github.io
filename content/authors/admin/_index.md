@@ -75,15 +75,15 @@ work:
   - position: Data Scientist Intern
     company_name: INFINITE Laboratory (CHU Lille)
     company_url: 'https://lille-inflammation-research.org/fr/'
-    date_start: April 2024
-    date_end: July 2024
+    date_start: 2024-04-01
+    date_end: 2024-07-01
     summary: |
       Development of state-of-the-art Convolutional Neural Networks for the classification of anomalies on images of Anti-Nuclear Antibodies. The most efficient model, achieving an accuracy rate of 96%, was deployed on the Lille University Hospital server for continuous use.
   - position: Backend Developer Intern
     company_name: Brains SARL
     company_url: 'https://brains-lb.com/index.html'
-    date_start: June 2022
-    date_end: August 2022
+    date_start: 2022-06-01
+    date_end: 2022-08-01
     summary: |
       Development and management of software projects in SQL and C# under .NET for local and international companies, including the design of invoicing systems and the creation of databases. Projects delivered on time with a high level of customer satisfaction.
 
