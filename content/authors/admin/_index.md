@@ -9,20 +9,9 @@ name_pronunciation: ''
 first_name: Gabriel
 last_name: Warde
 
-# Status emoji
-status:
-  icon: 🤖
-
-# Is this the primary user of the site?
-superuser: true
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
 role: Data Scientist
 
-# Organizations/Affiliations to display in Biography block
 organizations:
   - name: University of Lille
     url: https://www.univ-lille.fr/
