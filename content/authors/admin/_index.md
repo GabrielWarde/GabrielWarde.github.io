@@ -40,8 +40,8 @@ interests:
 education:
   - area: Master Data Science
     institution: University of Lille
-    date_start: September 2023
-    date_end: August 2025
+    date_start: 2023-09-01
+    date_end: 2025-08-31
     summary: |
       GPA: -In Progress-
       Courses included:
@@ -50,8 +50,8 @@ education:
         - Natural Language Processing
   - area: BSc Computer Science
     institution: Holy Spirit University of Kaslik
-    date_start: September 2020
-    date_end: May 2023
+    date_start: 2020-09-01
+    date_end: 2023-05-31
     summary: |
       GPA: 17.7/20
       Courses included:
