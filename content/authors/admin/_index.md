@@ -90,10 +90,10 @@ skills:
     items:
       - name: Explore the world
         percent: 60
-        icon: plane
+        icon: airplane
       - name: Basketball
         percent: 100
-        icon: basketball
+        icon: ball
       - name: Photography
         percent: 80
         icon: camera
