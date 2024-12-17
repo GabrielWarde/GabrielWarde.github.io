@@ -18,7 +18,7 @@ organizations:
 
 # Social network links
 profiles:
-  - icon: ✉️
+  - icon: fa-envelope
     url: 'mailto:wardegabriel@gmail.com'
     label: E-mail Me
   - icon: brands/x
