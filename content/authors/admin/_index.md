@@ -93,7 +93,7 @@ skills:
         icon: airplane
       - name: Basketball
         percent: 100
-        icon: ball
+        icon: 🏀
       - name: Photography
         percent: 80
         icon: camera
