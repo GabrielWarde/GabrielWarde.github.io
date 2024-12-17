@@ -80,7 +80,7 @@ skills:
         percent: 80
         icon: code-bracket
       - name: Data Science
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: SQL
         percent: 40
