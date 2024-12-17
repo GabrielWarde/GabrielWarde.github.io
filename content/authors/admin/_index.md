@@ -93,7 +93,7 @@ skills:
         icon: person-simple-walk
       - name: Basketball
         percent: 100
-        icon: sports-basketball
+        icon: sports_basketball
       - name: Photography
         percent: 80
         icon: camera
