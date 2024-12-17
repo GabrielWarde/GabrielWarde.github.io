@@ -101,17 +101,13 @@ skills:
 # Languages
 languages:
   - name: English
-    level: 85
-    label: IELTS C1
+    percent: 80
   - name: French
-    level: 85
-    label: Level C1
+    percent: 85
   - name: Arabic
-    level: 90
-    label: Native
+    percent: 85
   - name: Italian
-    level: 10
-    label: Level A1
+    percent: 15
 ---
 # About Me
 I am currently in the second year of my Master’s in Data Science, a program jointly offered by the University of Lille, École Centrale Lille, and IMT Nord Europe in Lille, France. In 2023, I earned my Bachelor’s degree in Computer Science with honors at the Holy Spirit University of Kaslik in Kaslik, Lebanon. My main interest lies in working with data and applying Machine Learning (ML) and Deep Learning (DL) techniques to solve complex real-world problems. During the summer of 2024, I completed a three-month internship at the INFINITE Laboratory (Institute for Research on Inflammation and Inflammatory Diseases), which is part of the Centre Hospitalier Universitaire (CHU) de Lille, I developed advanced Convolutional Neural Networks to classify anomalies in images of Anti-Nuclear Antibodies. The resulting model achieved an impressive 96% accuracy and was successfully deployed on the CHU server, enabling automated diagnostics to assist medical professionals. While the medical field was an incredible experience, I am also eager to apply my skills and knowledge to challenges in other industries, driving innovation through data and AI.
