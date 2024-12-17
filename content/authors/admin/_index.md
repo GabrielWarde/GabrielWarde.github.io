@@ -21,10 +21,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:wardegabriel@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/GabrielWarde
   - icon: brands/linkedin
@@ -92,12 +88,12 @@ skills:
   - name: Hobbies
     color: '#eeac02'
     items:
-      - name: Hiking
+      - name: Explore the world
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: fa fa-plane
+      - name: Basketball
         percent: 100
-        icon: cat
+        icon: fa-basketball
       - name: Photography
         percent: 80
         icon: camera
