@@ -100,12 +100,12 @@ skills:
 
 # Languages
 languages:
-  - name: English
-    percent: 80
   - name: French
     percent: 85
+  - name: English
+    percent: 80
   - name: Arabic
-    percent: 85
+    percent: 80
   - name: Italian
     percent: 15
 ---
