@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      I’m currently working with Professor Giuseppe Lipari and Mr. Nordine Feddal on a research project called **“Estimating the Execution Time of CUDA Programs.”** Our focus is on identifying which of the many CUDA features correlate the most with the execution time and using this knowledge to build accurate prediction models using Machine Learning and Deep Learning techniques. This research is particularly challenging due to the complexity of NVIDIA GPU architectures and the lack of transparency in their internal policies. The project is still ongoing as we continue to navigate these challenges and uncover valuable insights. 😃
     design:
       columns: '1'
   - block: collection

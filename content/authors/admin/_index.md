@@ -40,6 +40,7 @@ education:
     date_end: 2025-08-31
     summary: |
       GPA: -In Progress-
+
       Courses included:
         - Machine & Deep Learning
         - Computer Vision
@@ -50,6 +51,7 @@ education:
     date_end: 2023-05-31
     summary: |
       GPA: 17.7/20
+      
       Courses included:
         - Object Oriented Programming
         - Data Structures and Algorithms
