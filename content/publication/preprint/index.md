@@ -5,7 +5,7 @@ authors:
 date: "2024-08-14T00:00:00Z"
 doi: ""
 
-# # Schedule page publish date (NOT publication's date).
+# Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
@@ -14,19 +14,19 @@ doi: ""
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artifact Detection in Immunofluorescence Microscopy
- Slides"
+publication: "Artifact Detection in Immunofluorescence Microscopy Slides"
 publication_short: ""
 
-abstract:  This report presents the work undertaken during my internship at the U1286
- INFINITE Laboratory. The objective was to explore the detection of artifacts in
- immunofluorescence microscopy slides using convolutional neural networks (CNNs).
- Various CNN architectures were evaluated for their performance on an Anti-Nuclear
- Antibodies (ANA) dataset, with the best-performing model deployed on the hos
-pital server. This report outlines the essential methods, results, and conclusions
- drawn from this research.
+abstract: >
+  This report presents the work undertaken during my internship at the U1286
+  INFINITE Laboratory. The objective was to explore the detection of artifacts in
+  immunofluorescence microscopy slides using convolutional neural networks (CNNs).
+  Various CNN architectures were evaluated for their performance on an Anti-Nuclear
+  Antibodies (ANA) dataset, with the best-performing model deployed on the hospital
+  server. This report outlines the essential methods, results, and conclusions
+  drawn from this research.
 
-# # Summary. An optional shortened abstract.
+# Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
@@ -38,18 +38,18 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: "https://github.com/HugoBlox/hugo-blox-builder"
+url_dataset: "#"
+url_poster: "#"
+url_project: ""
+url_slides: ""
+url_source: "#"
+url_video: "#"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
 
