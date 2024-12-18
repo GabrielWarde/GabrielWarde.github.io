@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: "Artifact Detection in Immunofluorescence Microscopy Slides"
 publication_short: ""
 
-abstract: >
+abstract:
   This report presents the work undertaken during my internship at the U1286
   INFINITE Laboratory. The objective was to explore the detection of artifacts in
   immunofluorescence microscopy slides using convolutional neural networks (CNNs).
