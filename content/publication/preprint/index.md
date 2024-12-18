@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Anti-Nuclear Antibodies (ANAs) Article"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2024-08-14T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# # Schedule page publish date (NOT publication's date).
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,16 +14,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Artifact Detection in Immunofluorescence Microscopy
+ Slides"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract:  This report presents the work undertaken during my internship at the U1286
+ INFINITE Laboratory. The objective was to explore the detection of artifacts in
+ immunofluorescence microscopy slides using convolutional neural networks (CNNs).
+ Various CNN architectures were evaluated for their performance on an Anti-Nuclear
+ Antibodies (ANA) dataset, with the best-performing model deployed on the hos
+pital server. This report outlines the essential methods, results, and conclusions
+ drawn from this research.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# # Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Anomaly Detection using CNNs
 
 featured: true
 
